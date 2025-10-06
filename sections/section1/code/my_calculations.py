@@ -6,7 +6,7 @@ class Calculations:
 	def get_sum(self):
 		return self.a + self.b
 
-	def get_differnece(self):
+	def get_difference(self):
 		return self.a - self.b
 
 	def get_product(self):
